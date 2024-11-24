@@ -38,8 +38,3 @@ Using this dataset, the project aims to uncover the factors contributing to high
 - `notebooks/`: Jupyter Notebook with the detailed analysis and code.
 - `results/`: Visualizations and summary tables generated during the analysis.
 - `README.md`: Project documentation.
-
-## How to Run the Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/blood-pressure-analysis.git
